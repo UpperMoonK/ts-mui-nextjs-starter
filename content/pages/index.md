@@ -10,7 +10,7 @@ sections:
       create the food that you see on screen, this is the place for you!
     actions:
       - type: Button
-        label: Start Building
+        label: Browse
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
