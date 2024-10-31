@@ -17,7 +17,7 @@ sections:
         color: primary
       - type: Button
         label: Randomizer
-        url: random_recipe.html
+        url: 'https://mangamunchies.netlify.app/random-recipe.html'
         size: large
         variant: outlined
         color: primary
