@@ -55,7 +55,7 @@ sections:
           huge supply of anime eatery's.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Browse Main Dishes
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Desserts
