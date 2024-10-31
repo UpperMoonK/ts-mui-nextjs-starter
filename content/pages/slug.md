@@ -5,9 +5,9 @@ sections:
   - type: HeroSection
     title: Food Randomizer
     subtitle: For those willing to give anything a try
-    text: >-
-      Add more sections by hovering above or below this one and clicking '+ Add
-      Section', or using the sidebar.
+    text: >
+      Press the button and you will be given a random recipe to try out for
+      yourself!
     actions:
       - type: Button
         label: Get Started
