@@ -6,9 +6,8 @@ sections:
     title: Your Place for Anime Delicacies !
     subtitle: Featuring Your Favorite Anime and Manga Eats
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      From Food Wars to One Piece to even the obscure. If you ever wanted to
+      create the food that you see on screen, this is the place for you!
     actions:
       - type: Button
         label: Start Building
