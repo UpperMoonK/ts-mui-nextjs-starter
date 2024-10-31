@@ -67,6 +67,6 @@ sections:
           For those with an extremely sweet tooth
         actions:
           - type: Button
-            label: Read the Docs
+            label: Browse Desserts
             url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
