@@ -32,7 +32,7 @@ sections:
       sweet tooth!
     items:
       - type: Card
-        title: First Card Title
+        title: Snacks and Finger Foods
         image:
           type: Image
           url: /images/nextjs.svg
