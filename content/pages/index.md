@@ -3,76 +3,70 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    title: Your Place for Anime Delicacies !
+    subtitle: Featuring Your Favorite Anime and Manga Eats
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      From Food Wars to One Piece to even the obscure. If you ever wanted to
+      create the food that you see on screen, this is the place for you!
     actions:
       - type: Button
-        label: Start Building
+        label: Browse
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: Randomizer
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Food-Wars.webp
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: What are you craving right now?
+    subtitle: >-
+      See our selection of delicious snacks, entrees, and desserts for your
+      sweet tooth!
     items:
       - type: Card
-        title: First Card Title
+        title: Snacks and Finger Foods
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/onigiri.webp
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          If you are looking for a light snack, this is exactly the spot for
+          you!
         actions:
           - type: Button
-            label: Read the Docs
+            label: Browse Snacks
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: Main Courses
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/dragon-ball-z-goku.gif
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          For those hoping for something more filling! Look no further than our
+          huge supply of anime eatery's.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Browse Main Dishes
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: Desserts
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/desserts.jpg
           altText: Third item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: |
+          For those with an extremely sweet tooth
         actions:
           - type: Button
-            label: Read the Docs
+            label: Browse Desserts
             url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
