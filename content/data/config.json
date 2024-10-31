@@ -18,7 +18,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Favorite Eats",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
             }
@@ -41,7 +41,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Favorite Eats",
                 "underline": "hover",
                 "url": "https://docs.netlify.com/visual-editor/overview/"
             }
