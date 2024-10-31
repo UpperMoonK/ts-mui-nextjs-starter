@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: /
+        url: ''
         size: large
         variant: contained
         color: primary
