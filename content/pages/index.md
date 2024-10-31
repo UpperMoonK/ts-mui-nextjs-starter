@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Your Place for Anime Delicacies !
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Featuring Your Favorite Anime and Manga Eats
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
