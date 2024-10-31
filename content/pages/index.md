@@ -35,7 +35,7 @@ sections:
         title: Snacks and Finger Foods
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/onigiri.webp
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
