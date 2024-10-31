@@ -4,7 +4,7 @@ title: Randomizer
 sections:
   - type: HeroSection
     title: Food Randomizer
-    subtitle: The section subtitle
+    subtitle: For those willing to give anything a try
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.
