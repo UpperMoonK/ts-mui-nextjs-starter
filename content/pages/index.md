@@ -17,7 +17,7 @@ sections:
         color: primary
       - type: Button
         label: Randomizer
-        url: random_recipe.html
+        url: /random_recipe.html
         size: large
         variant: outlined
         color: primary
