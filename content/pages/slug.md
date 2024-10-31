@@ -3,7 +3,7 @@ type: Page
 title: Randomizer
 sections:
   - type: HeroSection
-    title: ''
+    title: Food Randomizer
     subtitle: The section subtitle
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
