@@ -23,7 +23,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Food-Wars.webp
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
