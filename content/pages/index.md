@@ -27,7 +27,9 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: What are you craving right now?
-    subtitle: Section subtitle here
+    subtitle: >-
+      See our selection of delicious snacks, entrees, and desserts for your
+      sweet tooth!
     items:
       - type: Card
         title: First Card Title
