@@ -17,7 +17,7 @@ sections:
         color: primary
       - type: Button
         label: Randomizer
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: random_recipe.html
         size: large
         variant: outlined
         color: primary
