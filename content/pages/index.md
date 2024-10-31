@@ -50,7 +50,7 @@ sections:
         title: Main Courses
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/dragon-ball-z-goku.gif
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
